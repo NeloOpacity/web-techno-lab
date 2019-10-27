@@ -81,10 +81,10 @@ input, select, textarea {
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 17pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #838;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -103,12 +103,12 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #848;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: #699;
 		line-height: 1.5em;
 	}
 
@@ -118,7 +118,7 @@ input, select, textarea {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #311;
 		}
 
 	h2 {
@@ -127,11 +127,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: #128;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #616;
 			}
 
 	h3 {
@@ -1753,7 +1753,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: #d50;
 		}
 
 			.image.avatar48 img {
@@ -1847,8 +1847,7 @@ input, select, textarea {
 		display: block;
 		border: 0;
 		outline: 0;
-		background: #fff;
-		background: rgba(255, 255, 255, 0.75);
+		background: #afb;
 		width: 100%;
 		border-radius: 0.35em;
 		padding: 0.75em 1em 0.75em 1em;
@@ -1908,7 +1907,7 @@ input, select, textarea {
 	}
 
 		table tbody tr:nth-child(2n+2) {
-			background: #f4f4f4;
+			background: #a4f4f4;
 		}
 
 		table td {
@@ -2028,9 +2027,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #222629 url("images/overlay.png");
+		background: #214125 url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-		color: #fff;
+		color: #aff;
 		height: 100%;
 		left: 0;
 		overflow-y: auto;

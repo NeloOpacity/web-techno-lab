@@ -2027,9 +2027,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #214125 url("images/overlay.png");
+		background: #f5fafa;
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-		color: #aff;
+		color: #000;
 		height: 100%;
 		left: 0;
 		overflow-y: auto;
@@ -2084,7 +2084,7 @@ input, select, textarea {
 
 		#logo h1 {
 			position: relative;
-			color: #fff;
+			color: #000;
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
@@ -2199,8 +2199,7 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: #f5fafa;
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2208,7 +2207,7 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: #faf;
 					border-color: inherit;
 				}
 
@@ -2241,7 +2240,7 @@ input, select, textarea {
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #e2edeh;
 			}
 
 /* Wide */
@@ -2415,13 +2414,14 @@ input, select, textarea {
 				display: block;
 				height: 100%;
 				left: 0;
+				color:#000;
 				overflow-y: auto;
 				position: fixed;
 				top: 0;
 				width: 275px;
 				z-index: 10002;
 				width: 275px;
-				background: #222729 url("images/overlay.png");
+				background:  #f5fafa;
 				box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
 			}
 
